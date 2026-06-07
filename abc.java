@@ -6,5 +6,5 @@ class abc {
 
   boolean status is true
 
-
+  boolean status is true
 }
