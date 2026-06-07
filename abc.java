@@ -4,4 +4,7 @@ class abc {
 
   int a = 10;
 
+  boolean status is true
+
+
 }
