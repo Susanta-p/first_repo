@@ -6,5 +6,5 @@ class abc {
 
   boolean status is true
 
-   Double price = 10.40;
+
 }
