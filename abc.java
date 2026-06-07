@@ -6,5 +6,9 @@ class abc {
 
   boolean status is true
 
+
    int k = 20;
+
+  boolean status is true
+
 }
